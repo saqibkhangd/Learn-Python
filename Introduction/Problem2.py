@@ -1,4 +1,3 @@
-# Fix the code
 print("Aapo")
 print("Eero")
 print("Juhani")
